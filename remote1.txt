@@ -1,2 +1,2 @@
 This is Remote File
-Adding a new commit...
+This is the next line.
